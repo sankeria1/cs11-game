@@ -7,7 +7,9 @@ Game files
 
 
 Game description:
+
 -Modified tetris
+
 -still behaves the same way as normal Tetris(e.g. Has controllable falling blocks that can be manipulated using a mouse, the initial left-click selects the block(can only be done one block at a time), and if done again it will rotate the block; on the other hand, right-click quickly drops the block to the ground), when the blocks aligned in a way that fills a single row, that row of boxes breaks.
 
 - the twist involves a character present inside the Tetris platform, it's goal is to survive the falling blocks, that is to avoid getting crushed by the falling blocks; it's movement mechanics are just the "ASWD" keys(The way it can move is every time a movement key is pressed it will move to exactly 1 cell).
