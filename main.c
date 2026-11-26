@@ -1,6 +1,6 @@
 #include "raylib.h"
 
-int main()
+int main(void)
 {
     // Window settings
     const int Window_width = 600;
